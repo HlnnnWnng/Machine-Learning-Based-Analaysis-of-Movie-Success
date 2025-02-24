@@ -5,7 +5,7 @@ This repository contains the code and analysis from a project report that invest
 
 [View the Analysis Notebook](./Movie_Success_Analysis_Code.ipynb)
 
-[View the Analysis Report](./Movie_Success_Analysis_report.ipynb)
+[View the Analysis Report](./Movie_Success_Analysis_report.pdf)
 
 
 ## Overview
