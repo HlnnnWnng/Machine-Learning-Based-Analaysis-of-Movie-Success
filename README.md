@@ -4,6 +4,7 @@
 This repository contains the code and analysis from a project report that investigates the factors contributing to the commercial and artistic success of movies. Using historical IMDb data from 2006 to 2016, the project leverages machine learning techniques—including Random Forest classifiers and A/B testing—to predict movie performance based on pre-release information. 
 
 [View the Analysis Notebook](./Movie_Success_Analysis_Code.ipynb)
+
 [View the Analysis Report](./Movie_Success_Analysis_report.ipynb)
 
 
